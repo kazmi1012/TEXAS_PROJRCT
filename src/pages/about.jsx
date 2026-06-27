@@ -1,13 +1,8 @@
 import React from "react";
-import Header from "../components/Header";
+import SmallBanner from "../components/SmallBanner";
 
 const About = () => {
-  return (
-    <div>
-      <Header />
-      About
-    </div>
-  );
+  return <SmallBanner title="About" />;
 };
 
 export default About;
