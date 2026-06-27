@@ -1,6 +1,6 @@
 ##Dalal Real Estate
 
-A simple real estate website built with React. Browse properties, check services, and get in touch.
+A simple real estate website built with React. Browse properties, check services, and its not fully completed so get in touch.
 
 ### Pages
 - Home
