@@ -1,21 +1,21 @@
-# Dalal Real Estate
+##Dalal Real Estate
 
 A simple real estate website built with React. Browse properties, check services, and get in touch.
 
-## Pages
+### Pages
 - Home
 - About
 - Service
 - Contact
 - Property Detail
 
-## Tech
+### Tech
 - React
 - Vite
 - Tailwind CSS
 - React Router
 
-## Run locally
+### Run locally
 
 npm install
 npm run dev
